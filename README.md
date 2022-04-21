@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 Atualmente não estou trabalhando na áera 
-- 🌱 Estou estudando JavaScript
-- 😄 Pronome : ele/dele
 
 <div align="center">
   <a href="https://github.com/JoelSantoss">
